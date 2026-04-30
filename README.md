@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi, I'm Abhay 👋
 
 Backend Developer | Django | DRF | JWT | System Design
@@ -21,4 +18,3 @@ I build scalable backend systems and REST APIs.
 ## 📫 Contact
 - LinkedIn:
 - Email:
--->
