@@ -11,10 +11,11 @@ I build scalable backend systems and REST APIs.
 - Git, Linux
 
 ## 🚀 Featured Projects
-- College Management System (Django + DRF)
+- Nepkard The ecommerce website (Django + DRF)
 - JWT Auth System
 - Interview Anti-Cheat Tool
 
 ## 📫 Contact
-- LinkedIn:
-- Email:
+- LinkedIn: https://www.linkedin.com/in/abhaya-kunwar-b805352b6/
+- Email: abhayakunwar502@gmail.com
+- Insta : abhaya.py
