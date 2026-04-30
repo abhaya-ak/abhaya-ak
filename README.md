@@ -1,16 +1,24 @@
 ## Hi there 👋
 
 <!--
-**abhaya-ak/abhaya-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abhay 👋
 
-Here are some ideas to get you started:
+Backend Developer | Django | DRF | JWT | System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I build scalable backend systems and REST APIs.
+
+## 🔧 Tech Stack
+- Python, Django, DRF
+- PostgreSQL, Redis
+- JWT, Docker
+- Git, Linux
+
+## 🚀 Featured Projects
+- College Management System (Django + DRF)
+- JWT Auth System
+- Interview Anti-Cheat Tool
+
+## 📫 Contact
+- LinkedIn:
+- Email:
 -->
